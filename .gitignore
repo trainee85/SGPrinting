@@ -1,0 +1,15 @@
+# Node.js modules
+node_modules/
+
+# Electron binaries
+*.exe
+*.app
+*.dmg
+
+# Logs
+logs/
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
